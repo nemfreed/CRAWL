@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\VScommunity2019box\VScommunityIDE\2D_GameEnginebox\2D_GameEngine\Game.cpp(13,9): warning C4552: '-': result of expression not used
+  main.cpp
+  Generating Code...
+  2D_GameEngine.vcxproj -> C:\VScommunity2019box\VScommunityIDE\2D_GameEnginebox\2D_GameEngine\x64\Debug\2D_GameEngine.exe

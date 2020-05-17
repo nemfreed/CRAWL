@@ -1,0 +1,2 @@
+C:\VScommunity2019box\VScommunityIDE\2D_GameEnginebox\2D_GameEngine\x64\Debug\2D_GameEngine.exe
+C:\VScommunity2019box\VScommunityIDE\2D_GameEnginebox\2D_GameEngine\x64\Debug\2D_GameEngine.pdb
